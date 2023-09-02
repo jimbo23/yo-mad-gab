@@ -12,7 +12,7 @@ export default function Home() {
       </h2>
       <div className="grid grid-cols-2">
         {Object.values(QUESTIONS_SET).map((value) => (
-          <CardLink value={value} />
+          <CardLink value={value} key={value.id} />
         ))}
       </div>
     </main>
@@ -29,12 +29,12 @@ const CardLink = ({ value }: { value: { id: string; by: string } }) => (
 );
 
 const QUESTIONS_SET = [
-  { id: '1', by: 'Kiefer_1' },
-  { id: '2', by: 'Kiefer_2' },
-  { id: '3', by: 'Danial' },
-  { id: '4', by: 'Gareth' },
-  { id: '5', by: 'Jordan_1' },
-  { id: '6', by: 'ZhiWei & Jordan_2' },
-  { id: '7', by: 'Clement' },
-  { id: '8', by: 'Aloy' },
+  { id: '1', by: 'K_1' },
+  { id: '2', by: 'K_2' },
+  { id: '3', by: 'D' },
+  { id: '4', by: 'G' },
+  { id: '5', by: 'J_1' },
+  { id: '6', by: 'ZW & J_2' },
+  { id: '7', by: 'C' },
+  { id: '8', by: 'A' },
 ];
