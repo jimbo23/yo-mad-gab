@@ -1,6 +1,5 @@
 import { Card, CardTitle } from '@/components/ui/card';
 import yo from '@/yo.json';
-import { useSearchParams } from 'next/navigation';
 
 export default function Page(props: {
   params: { qnid: string; qsid: string };
@@ -15,8 +14,13 @@ export default function Page(props: {
   const back = yo[qsid][qnid].back;
 
   return (
-    <Card className="flex flex-1 flex-col items-center justify-center m-5 md:m-20 md:mt-5 bg-slate-200">
-      <CardTitle className="text-3xl mb-4 text-center">Q{qnid}:</CardTitle>
+    <Card
+      className={`
+    flex flex-1 flex-col items-center justify-center m-5 md:m-20 md:mt-5 bg-slate-200
+    ${isRevealed ? 'bg-green-300' : ''}
+    `}
+    >
+      <CardTitle className={`text-3xl mb-4 text-center `}>Q{qnid}:</CardTitle>
       {isRevealed ? (
         <CardTitle className="text-5xl text-center">{back}</CardTitle>
       ) : (

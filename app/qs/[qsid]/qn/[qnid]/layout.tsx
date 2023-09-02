@@ -43,8 +43,8 @@ export default function QuestionLayout({
         Home
       </Link>
       <div className="flex flex-col w-full">
-        <p className="py-20 text-center self-center justify-center text-5xl font-bold text-slate-200">
-          0: {seconds}
+        <p className="p-4 m-8 text-center self-center justify-center text-5xl font-bold text-red-600 bg-slate-300 rounded-3xl">
+          {totalSeconds} secs
         </p>
         {children}
       </div>
