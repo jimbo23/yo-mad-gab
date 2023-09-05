@@ -14,7 +14,7 @@ export default function QuestionLayout({
   const time = new Date();
   time.setSeconds(time.getSeconds() + 60);
 
-  const { totalSeconds, seconds, isRunning, pause, resume } = useTimer({
+  const { totalSeconds, isRunning, pause, resume } = useTimer({
     expiryTimestamp: time,
   });
   const router = useRouter();
