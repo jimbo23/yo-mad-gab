@@ -1,6 +1,5 @@
 'use client';
 import { Button } from '@/components/ui/button';
-import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { useTimer } from 'react-timer-hook';
 
@@ -39,9 +38,6 @@ export default function QuestionLayout({
 
   return (
     <div className="flex min-h-screen bg-slate-600 justify-between">
-      <Link href="/" className="bg-slate-300 p-4 absolute">
-        Home
-      </Link>
       <div className="flex flex-col w-full">
         <p className="p-4 m-8 text-center self-center justify-center text-5xl font-bold text-red-600 bg-slate-300 rounded-3xl">
           {totalSeconds} secs

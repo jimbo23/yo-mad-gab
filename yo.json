@@ -1,276 +1,207 @@
 {
   "1": {
-    "1": { "front": "Docked Hearse Whose", "back": "Dr. Suess" },
-    "2": { "front": "Air Hub Herb Hand", "back": "A Rubber Band" },
-    "3": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
+    "1": { "front": "Rye Doubt These Dorm", "back": "Ride Out the Storm" },
+    "2": {
+      "front": "Ash Hold Hurt Hook Rye Yawn",
+      "back": "A Shoulder To Cry On"
     },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": {
-      "front": "Annie Leg Ditto Fish Hull",
-      "back": "An Elected Official"
+    "3": { "front": "Aged Who Woe", "back": "H2O" },
+    "4": { "front": "Aim Air Egg Gore Round", "back": "A Merry–Go–Round" },
+    "5": { "front": "Air Hub Herb Hand", "back": "A Rubber Band" },
+    "6": { "front": "Aid Us Sinner Owe Hoses", "back": "A Dozen Roses" },
+    "7": { "front": "Canoe Key Pace He Grit", "back": "Can You Keep A Secret" },
+    "8": { "front": "Check Hinge ill", "back": "Jack and Jill" },
+    "9": { "front": "Aid Ride Hyper", "back": "A Dry Diaper" },
+    "10": { "front": "Egg Hull Art Eve He", "back": "A Color TV" },
+    "11": { "front": "Bills Pair Read Oh Boy", "back": "Pillsbury Dough Boy" },
+    "12": { "front": "Abe Ax Tree Tally", "back": "A Back Street Alley" },
+    "13": {
+      "front": "Snot Mike Up Puffed He",
+      "back": "It's Not My Cup of Tea"
     },
-    "6": {
-      "front": "Aisle Me Hew Have Weigh",
-      "back": "I'll Meet You Half Way"
-    },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "9": {
-      "front": "Eased Ears Head Thinned Un",
-      "back": "Easier Said Than Done"
-    },
-    "10": {
-      "front": "Arrow Loved oil It Issue",
-      "back": "A Roll of Toilet Tissue"
-    },
-    "11": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "12": { "front": "Ape Hack Awful Eyes", "back": "A Pack Of Lies" },
-    "13": { "front": "Air Whom Width Half You", "back": "A Room With A View" },
-    "14": { "front": "Ape Arrows Uncle As His", "back": "An Electric Blanket" },
-    "15": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" }
+    "14": { "front": "Abe An An Appeal", "back": "A banana peal" },
+    "15": {
+      "front": "Comb Bee Forth Ease Dorm",
+      "back": "Calm Before The Storm"
+    }
   },
   "2": {
-    "1": {
-      "front": "Eased Ears Head Thinned Un",
-      "back": "Easier Said Than Done"
-    },
+    "1": { "front": "Con Face Shores Hens", "back": "Conversations" },
     "2": {
-      "front": "Aisle Me Hew Have Weigh",
-      "back": "I'll Meet You Half Way"
+      "front": "Ate Rip Toot His Kneel Hand",
+      "back": "A Trip To Disneyland"
     },
-    "3": { "front": "Dried Hog Feud", "back": "Dry Dog Food" },
-    "4": { "front": "Ape Hack Awful Eyes", "back": "A Pack Of Lies" },
-    "5": { "front": "Ape Arrows Uncle As His", "back": "An Electric Blanket" },
-    "6": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "7": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "8": { "front": "Calm Tooth Hen Cove Fit", "back": "Come To Think Of It" },
-    "9": {
+    "3": { "front": "Abe Bless Sing", "back": "A Blessing" },
+    "4": { "front": "Below They Whiz ill", "back": "Blow the Whistle" },
+    "5": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
+    "6": { "front": "Adore Purr Eyes", "back": "A Door Prize" },
+    "7": { "front": "Owl Frayed Hose Hoss", "back": "Alfredo Sauce" },
+    "8": { "front": "Dawn Bed Tone Kit", "back": "Don't Bet On It" },
+    "9": { "front": "Aid Hub Bladee Gent", "back": "A Double Agent" },
+    "10": { "front": "Aid Are Crank Loud", "back": "A Dark Rain Cloud" },
+    "11": { "front": "Portal Ann Dory Gun", "back": "Portland" },
+    "12": { "front": "Easel Aid Ease Man", "back": "He's A Ladies Man" },
+    "13": { "front": "Hiney Dairy Seat", "back": "I Need a Receipt" },
+    "14": { "front": "Egg Know Rinses Bless", "back": "Ignorance is Bliss" },
+    "15": { "front": "Aid Arrive Her Slice Sins", "back": "A Drivers License" }
+  },
+  "3": {
+    "1": { "front": "Ace Heal Ink Van", "back": "A Ceiling Fan" },
+    "2": {
+      "front": "Age High Knees West Want",
+      "back": "A Chinese Restaurant"
+    },
+    "3": { "front": "Crawl Shore Fiend Curse", "back": "Cross Your Fingers" },
+    "4": { "front": "Ache Up Puck Off He", "back": "A Cup of Coffee" },
+    "5": { "front": "Disguise They'll Him Hit", "back": "The Skies the Limit" },
+    "6": { "front": "Fooled Forth Halt", "back": "Food For Thought" },
+    "7": { "front": "Arrest Hairy Ahh", "back": "A Rest Area" },
+    "8": {
       "front": "Dawn Ways Chore Moan Knit",
       "back": "Don't Waste Your Time On It"
     },
-    "10": { "front": "Dawn Bill Eight", "back": "Don't Be Late" },
-    "11": { "front": "Bull Line Days Sub Hat", "back": "Blind As A Bat" },
-    "12": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
+    "9": {
+      "front": "Any Lack Tricked Bull Hank Hit",
+      "back": "An Electric Blanket"
     },
-    "13": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "14": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "15": { "front": "Docked Hearse Whose", "back": "Dr. Suess" }
+    "10": { "front": "Abe Autumn Lisp Hit", "back": "A Bottomless Pit" },
+    "11": { "front": "A Lick Cue All Ought", "back": "I Like You Alot" },
+    "12": { "front": "Bull Line Days Sub Hat", "back": "Blind As A Bat" },
+    "13": { "front": "Cause Mid Ticks Urge Jury", "back": "Cosmetic Surgery" },
+    "14": { "front": "Dawn Bees Hose Hilly", "back": "Don't Be So Silly" },
+    "15": { "front": "Cough He Anchor Ream", "back": "Coffee and Cream" }
   },
   "4": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
-    },
+    "1": { "front": "Calm Hunger Hound", "back": "Common Ground" },
+    "2": { "front": "Call Fibber Rake", "back": "Coffee Break" },
     "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
-    "6": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "14": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "15": {
       "front": "Dune Hot Feed Than Hymn Hulls",
       "back": "Do Not Feed the Animals"
-    }
+    },
+    "4": { "front": "Dowel List Excess", "back": "Dallas" },
+    "5": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
+    "6": { "front": "Crown Dogged Hay", "back": "Ground Hog Day" },
+    "7": { "front": "Ace Lie Soap Eye", "back": "A Slice of Pie" },
+    "8": { "front": "Offend Herb End Her", "back": "A Fender Bender" },
+    "9": { "front": "Ape Hack Awful Eyes", "back": "A Pack Of Lies" },
+    "10": {
+      "front": "Beyond Nest Wit Chores Elf",
+      "back": "Be Honest With Yourself"
+    },
+    "11": {
+      "front": "Ache Hood Sin Sew Fume Her",
+      "back": "A Good Sense of Humor"
+    },
+    "12": {
+      "front": "Wore Have Ink Abe Abe He",
+      "back": "We're Having a Baby"
+    },
+    "13": { "front": "Creased My Sieve", "back": "Christmas Eve" },
+    "14": { "front": "Ale Hot Treat Hick Hit", "back": "A Lottery Ticket" },
+    "15": { "front": "Backed Ooze Queer Won", "back": "Back to Square One" }
   },
   "5": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
+    "1": { "front": "Knots Hole Dens Tores", "back": "Not Sold in Stores" },
+    "2": { "front": "Dried Hog Feud", "back": "Dry Dog Food" },
+    "3": { "front": "Ball Stint Heap Hearty", "back": "Boston Tea Party" },
+    "4": {
+      "front": "Bat Tree Snot Ink Looted",
+      "back": "Batteries Not Included"
     },
-    "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
+    "5": { "front": "Aid Hymn Oak Rat", "back": "A Democrat" },
+    "6": { "front": "Dawn Jury Member", "back": "Don't You Remember" },
+    "7": { "front": "Calm Tooth Hen Cove Fit", "back": "Come To Think Of It" },
+    "8": {
+      "front": "Arrow Loved oil It Issue",
+      "back": "A Roll of Toilet Tissue"
     },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
-    "6": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
+    "9": { "front": "Use Yell Knots Deal", "back": "You Shall Not Steal" },
+    "10": { "front": "Better Hoses", "back": "Bed of Roses" },
+    "11": {
+      "front": "Caress Tougher Clump Us",
+      "back": "Christopher Columbus"
     },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "14": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "15": {
-      "front": "Dune Hot Feed Than Hymn Hulls",
-      "back": "Do Not Feed the Animals"
-    }
+    "12": { "front": "Beam Hive Howl Lint I'm", "back": "Be My Valentine" },
+    "13": { "front": "Aid Inn Hearse Owl Add", "back": "A Dinner Salad" },
+    "14": { "front": "Chess Tame Home Hint", "back": "Just a Moment" },
+    "15": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" }
   },
   "6": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
+    "1": { "front": "Bee Way Rough Thud Hog", "back": "Beware of the Dog" },
     "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
+      "front": "Jostle Hit Tub Hit Mower",
+      "back": "Just A Little Bit More"
     },
-    "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
+    "3": { "front": "Burr Sofa Faith Her", "back": "Birds of a Feather" },
+    "4": { "front": "By Chore Dung", "back": "Bite Your Toung" },
+    "5": { "front": "Check Cove Fault Raids", "back": "Jack of All Trades" },
+    "6": { "front": "Cussed Hum Aid", "back": "Custom Made" },
+    "7": { "front": "Acre Hill Uh", "back": "A Gorilla" },
+    "8": { "front": "Aim Who Very View", "back": "A Movie Review" },
+    "9": { "front": "Bare Love Monk Ease", "back": "A Barrel of Monkies" },
+    "10": {
+      "front": "Ace Height Force or Rise",
+      "back": "A Sight For Sore Eyes"
     },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
-    "6": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "14": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "15": {
-      "front": "Dune Hot Feed Than Hymn Hulls",
-      "back": "Do Not Feed the Animals"
-    }
-  },
-  "3": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
-    },
-    "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
-    "6": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
-    "14": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "15": {
-      "front": "Dune Hot Feed Than Hymn Hulls",
-      "back": "Do Not Feed the Animals"
-    }
+    "11": { "front": "Ale Hawk Cab Hen", "back": "A Log Cabin" },
+    "12": { "front": "Apart Hinder", "back": "A Bar Tender" },
+    "13": { "front": "Al of Try Ankle", "back": "A Love Triangle" },
+    "14": { "front": "Acre Halls Tub Hoard", "back": "Across the Board" },
+    "15": { "front": "Aid Hay Huff Ache Asian", "back": "A Day of Vacation" }
   },
   "7": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
+    "1": {
+      "front": "Dawn Tall Quit Chore Mile Full",
+      "back": "Don't Talk With Your Mouth Full"
     },
-    "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
+    "2": { "front": "Echoed Uh Fifth Hicks", "back": "A Code of Ethics" },
+    "3": { "front": "Know Won Candy High Yet", "back": "No One Can Deny It" },
+    "4": { "front": "May Pole Sir Up", "back": "Maple Syrup" },
+    "5": { "front": "Ace Nose Dorm", "back": "A Snow Storm" },
+    "6": { "front": "Ear Wig Hoe Hug Hen", "back": "Here We Go Again" },
+    "7": { "front": "Aim Adder Rough Open Yen", "back": "A Matter of Opinion" },
+    "8": { "front": "Ace Pea Ding Tea Kit", "back": "A Speeding Ticket" },
+    "9": {
+      "front": "Bigger Scant Beach Hoosiers",
+      "back": "Beggars Can't Be Choosers"
     },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
-    "6": {
+    "10": {
       "front": "Ewe Arm Eye Ever Wreath In",
       "back": "You Are My Everything"
     },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
+    "11": { "front": "Ace Leap Lesson Height", "back": "A Sleepless Night" },
+    "12": { "front": "Age Are Coke Real", "back": "A Charcoal Grill" },
     "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
+      "front": "Ape Arrows Uncle As His",
+      "back": "A Pair of Sunglasses"
     },
     "14": {
       "front": "Aisle Beer Height They Hair",
       "back": "I'll Be Right There"
     },
-    "15": {
-      "front": "Dune Hot Feed Than Hymn Hulls",
-      "back": "Do Not Feed the Animals"
-    }
+    "15": { "front": "Check Hole Ant Turn", "back": "Jack–O–Lantern" }
   },
   "8": {
-    "1": { "front": "Disc Possible Dye Purse", "back": "Disposable Diapers" },
-    "2": {
-      "front": "Dawned Hay Guinea Chants His",
-      "back": "Don't Take Any Chances"
-    },
-    "3": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
-    },
-    "4": { "front": "Delights Havens Dime", "back": "Daylight Savings Time" },
-    "5": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
+    "1": { "front": "Annex Tin Chunk Hoard", "back": "An Extension Cord" },
+    "2": { "front": "Dawn Buried Hick Yule Us", "back": "Don't Be Ridiculous" },
+    "3": { "front": "Dare Snow Window Wit", "back": "There's No End To It" },
+    "4": { "front": "Ache Off Cores", "back": "A Golf Course" },
+    "5": { "front": "Dad Donor Eyeful", "back": "Dead On Arrival" },
     "6": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
+      "front": "Aim Honey Bag Care Runt He",
+      "back": "A Money Back Guarantee"
     },
-    "7": { "front": "Ask Rude Arrive Her", "back": "A Screw Driver" },
-    "8": { "front": "Arrow Lurk Holster", "back": "A Roller Coaster" },
-    "9": { "front": "Creased My Sieve", "back": "Christmas Eve" },
-    "10": { "front": "Con Face Shores Hens", "back": "Conversations" },
-    "11": { "front": "Ache How Cue Later", "back": "A Calculater" },
-    "12": { "front": "Bob Bobble Axe Heap", "back": "Baa Baa Black Sheep" },
-    "13": {
-      "front": "Ewe Arm Eye Ever Wreath In",
-      "back": "You Are My Everything"
-    },
+    "7": { "front": "Debt Snot Must Aisle", "back": "That's Not My Style" },
+    "8": { "front": "Diamond Dime Hun Hen", "back": "Time and Time Again" },
+    "9": { "front": "Aim Hiker Owes Cope", "back": "A Microscope" },
+    "10": { "front": "Beast ill My Art", "back": "Be Still My Heart" },
+    "11": { "front": "Each Oar Hard Tout", "back": "Eat Your Heart Out" },
+    "12": { "front": "Hits Owe Wad", "back": "It's So Odd" },
+    "13": { "front": "Ace Heck Hunch Ants", "back": "A Second Chance" },
     "14": {
-      "front": "Aisle Beer Height They Hair",
-      "back": "I'll Be Right There"
+      "front": "Age Rob Pin Tub Huck Kit",
+      "back": "A Drop in the Bucket"
     },
-    "15": {
-      "front": "Dune Hot Feed Than Hymn Hulls",
-      "back": "Do Not Feed the Animals"
-    }
+    "15": { "front": "Aim Other Ranch Howled", "back": "A Mother and Child" }
   }
 }
