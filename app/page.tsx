@@ -21,9 +21,9 @@ export default function Home() {
 
 const CardLink = ({ value }: { value: { id: string; by: string } }) => (
   <Link href={`/qs/${value.id}`}>
-    <Card className="shadow-2xl bg-slate-200 m-2 p-4 md:px-8 md:py-6 md:m-2 ">
+    <Card className="shadow-2xl bg-slate-200 m-2 p-4 md:px-10 md:py-6 md:m-4">
       <CardTitle className="pb-2 text-xl">Question set {value.id}</CardTitle>
-      <CardDescription className="pt-2">by: {value.by}</CardDescription>
+      <CardDescription className="pt-2">For Group {value.id}</CardDescription>
     </Card>
   </Link>
 );
@@ -35,6 +35,4 @@ const QUESTIONS_SET = [
   { id: '4', by: 'G' },
   { id: '5', by: 'J_1' },
   { id: '6', by: 'ZW & J_2' },
-  { id: '7', by: 'C' },
-  { id: '8', by: 'A' },
 ];
