@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen bg-slate-600 flex-col items-center p-10 md:p-24">
+    <main className="flex min-h-screen bg-slate-900 flex-col items-center p-10 md:p-24">
       <h1 className="scroll-m-20 text-4xl font-bold tracking-tight lg:text-5xl text-slate-200 mb-4">
         MAD GAB
       </h1>
@@ -21,18 +21,18 @@ export default function Home() {
 
 const CardLink = ({ value }: { value: { id: string; by: string } }) => (
   <Link href={`/qs/${value.id}`}>
-    <Card className="shadow-2xl bg-slate-200 m-2 p-4 md:px-10 md:py-6 md:m-4">
+    <Card className="shadow-2xl bg-slate-200 m-2 p-4 md:px-8 md:py-6 md:m-4">
       <CardTitle className="pb-2 text-xl">Question set {value.id}</CardTitle>
-      <CardDescription className="pt-2">For Group {value.id}</CardDescription>
+      <CardDescription className="pt-2">By: {value.by}</CardDescription>
     </Card>
   </Link>
 );
 
 const QUESTIONS_SET = [
-  { id: '1', by: 'K_1' },
-  { id: '2', by: 'K_2' },
-  { id: '3', by: 'D' },
+  { id: '1', by: 'K' },
+  { id: '2', by: 'D' },
+  { id: '3', by: 'A' },
   { id: '4', by: 'G' },
-  { id: '5', by: 'J_1' },
-  { id: '6', by: 'ZW & J_2' },
+  { id: '5', by: 'J' },
+  { id: '6', by: 'C' },
 ];
