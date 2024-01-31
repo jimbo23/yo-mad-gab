@@ -3,9 +3,9 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen bg-slate-900 flex-col items-center p-10 md:p-24">
+    <main className="flex min-h-screen bg-red-900 flex-col items-center p-10 md:p-24">
       <h1 className="scroll-m-20 text-4xl font-bold tracking-tight lg:text-5xl text-slate-200 mb-4">
-        MAD GAB
+        MAD GAB crazy
       </h1>
       <h2 className="text-md font-normal tracking-tight text-slate-200 mb-4">
         - by ACE SEA PEE DEE
